@@ -18,7 +18,15 @@ Welcome to my GitHub repository showcasing a series of machine learning algorith
 
 ## 📁 Directory Structure
 
-
+machine-learning-portfolio/
+│
+├── data/ # Raw and cleaned datasets
+├── notebooks/ # Jupyter Notebooks with ML models
+├── models/ # Saved model files
+├── visuals/ # Graphs and plots
+├── utils/ # Helper scripts
+├── requirements.txt # Dependencies
+└── README.md # This file
 
 ## 📊 Projects Overview
 
